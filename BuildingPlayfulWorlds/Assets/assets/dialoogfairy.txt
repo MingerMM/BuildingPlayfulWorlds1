@@ -1,0 +1,12 @@
+I protect the wishing well and help travelers making their wish.
+
+Hello young traveler, what can I help you with?
+Magic? from the wishing well?
+I suppose that won't cause any harm to the magic inside the well...
+But you won't be able to make a wish ever again.
+Is that worth it to you?
+If it is, then let me help you grant your wish.
+There you go. Your wand now contains magic.
+I trust you will only serve the light with it.
+
+Hello.
